@@ -63,17 +63,17 @@ class AboutMe(Developer):
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Dec0XD&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=andrecoedev&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
 
 ---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dec0XD&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dec0XD&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dec0XD&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrecoedev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrecoedev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrecoedev&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dec0XD&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Dec0XD&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrecoedev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andrecoedev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 ### Contact:
@@ -99,7 +99,7 @@ Languages & Technologies: `Python`, `Django`, `Flutter`, `React Native`, `HTML5`
 **Back-end Developer** \
 [**Senai Cimatec**](https://seja.senaicimatec.com.br/graduacao/?utm_source=ZYGON&utm_medium=SEARCH&utm_campaign=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA&utm_content=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA_NA_&utm_term=SEARCH_OBJECTIVA_FIEB-SENAI_CIMATEC-GRADUACAO-2024-1_SET-NOV-23_NA_NA_NA&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvvMs5crIKeMWKcWBc0mqtewevaxzCzT01FmANTKbIM2oiNulnf4ohoCMskQAvD_BwE/) • Full-time \
 Languages & Technologies: `Python`, `Flask`, `HTML5`, `JavaScript`, `CSS3`\
-Highlighted Projects: [Semantic Jung](https://github.com/Dec0XD/1projeto), [Virtual Assistant Project](https://github.com/Dec0XD/1projeto), [Find the Money](https://github.com/Dec0XD/find-the-money)
+Highlighted Projects: [Semantic Jung](https://github.com/andrecoedev/1projeto), [Virtual Assistant Project](https://github.com/andrecoedev/1projeto), [Find the Money](https://github.com/andrecoedev/find-the-money)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://imgs.jusbr.com/publications/images/c183381b79b4079f6db4439b988841ba"/>](https://portifolio.bohr.io/)
