@@ -103,21 +103,22 @@ My background includes data analysis, dashboards, backend development, APIs and 
 
 <p align="center">
 
----
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=andrecoedev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"
+/>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrecoedev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrecoedev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrecoedev&theme=nord_dark) |
-| :-: | :-: | :-: |
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecoedev&layout=compact&langs_count=8&theme=nord&hide_border=true"
+/>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrecoedev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andrecoedev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
 </p>
-
----
 
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=andrecoedev&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=andrecoedev&theme=nord&hide_border=true&area=true"
 />
 
 </p>
