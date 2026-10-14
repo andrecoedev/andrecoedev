@@ -181,9 +181,7 @@ Highlighted Projects: [WiseCalc](https://projeto-site-phi.vercel.app/), [Portal 
 
 ### 🎓 Education
 
-**Data Science and Artificial Intelligence**
-
-Currently studying Data Science and Artificial Intelligence.
+**Currently studying Data Science and Artificial Intelligence.**
 
 ---
 
